@@ -3,11 +3,11 @@
 <h1 align="center">Hi, I'm Oli</h1>
 <h3 align="center">A development apprentice from Switzerland</h3>
 
-- 🐦‍🔥 My current project: **None**
+- 🐦‍🔥 My current project: **My own Portfolio**
 
-- 👉 My other projects: **Still none**
+- 👉 My other projects: **DuckyType, DuckyQlick**
 
-- 📨 Reach out to me: **olivier@deszynski.com**
+- 📨 Reach out to me: **oulei@oulei.ch**
 
 <h2 align="center">WINGMANZ ON TOP</h1>
 
