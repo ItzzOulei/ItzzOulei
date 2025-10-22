@@ -1,6 +1,6 @@
 ![MasterHead](https://www.oporniki-bmw.pl/wp-content/uploads/2018/08/oczyaniola.jpg)
 
-<h1 align="center">Hoiii :D, I'm Oli</h1>
+<h1 align="center">Hi, I'm Oli</h1>
 <h3 align="center">A development apprentice from Switzerland</h3>
 
 - 🐦‍🔥 My current project: **None**
