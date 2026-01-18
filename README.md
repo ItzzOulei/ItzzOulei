@@ -76,8 +76,6 @@
 
 ## GitHub Stats
 
-## 📊 GitHub Stats
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzoulei&show_icons=true&locale=en" height="180"/>
   <img src="https://github-readme-stats.vercel.app/api?username=itzzoulei&show_icons=true&locale=en" height="180"/>
