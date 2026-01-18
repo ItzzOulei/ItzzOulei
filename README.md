@@ -1,7 +1,7 @@
 ![MasterHead](https://github.com/user-attachments/assets/da9fa04e-82bb-4db0-806f-7be3cbf92c84)
 <h1 align="center">Hi, I'm Oli</h1>
 <h3 align="center">A development apprentice from Switzerland</h3>
-<h3 align="center">Check out my <a href="oulei.ch" target="_blank">Portfolio!</a></h3>
+<h3 align="center">Check out my <a href="https://www.oulei.ch" target="_blank">Portfolio!</a></h3>
 
 ---
 
