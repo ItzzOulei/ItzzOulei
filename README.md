@@ -1,5 +1,4 @@
 ![MasterHead](https://github.com/user-attachments/assets/da9fa04e-82bb-4db0-806f-7be3cbf92c84)
-<div style="background-color:#4d8fd4; width:100%">
 <h1 align="center">Hi, I'm Oli</h1>
 <h3 align="center">A development apprentice from Switzerland</h3>
 <h3 align="center">Check out my <a href="oulei.ch" target="_blank">Portfolio!</a></h3>
@@ -10,17 +9,15 @@
 
 - 📨 Reach out to me: **oulei@oulei.ch**
 
-<h2 align="center">WINGMANZ ON TOP</h1>
-
-![MasterHead](https://github.com/user-attachments/assets/1d38b5ca-98f7-4e4a-b0a7-8002b0973d38)
-
 <p align="left">
 </p>
 
 
 ---
 
-## 🚀 Frontend
+
+## Frontend
+
 <p align="left">
   <a href="https://angular.io"><img src="https://angular.io/assets/images/logos/angular/angular.svg" width="40"/></a>
   <a href="https://reactjs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" width="40"/></a>
@@ -35,7 +32,9 @@
 
 ---
 
-## 🧠 Backend
+
+## Backend
+
 <p align="left">
   <a href="https://nodejs.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" width="40"/></a>
   <a href="https://expressjs.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" width="40"/></a>
@@ -47,7 +46,9 @@
 
 ---
 
-## 🗄️ Databases
+
+## Databases
+
 <p align="left">
   <a href="https://www.mysql.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/></a>
   <a href="https://www.postgresql.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/></a>
@@ -58,7 +59,9 @@
 
 ---
 
-## ☁️ DevOps & Cloud
+
+## DevOps & Cloud
+
 <p align="left">
   <a href="https://aws.amazon.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40"/></a>
   <a href="https://azure.microsoft.com"><img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" width="40"/></a>
@@ -71,7 +74,9 @@
 
 ---
 
-## 🛠️ Tools & Design
+
+## Tools & Design
+
 <p align="left">
   <a href="https://git-scm.com/"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" width="40"/></a>
   <a href="https://postman.com"><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" width="40"/></a>
@@ -81,9 +86,10 @@
 
 ---
 
-## 📊 GitHub Stats
-<p align="center">
+
+## GitHub Stats
+
+<p align="center" display="flex">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzoulei&show_icons=true&locale=en" alt="Top Languages" />
-  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzoulei&show_icons=true&locale=en" alt="itzzoulei" /></p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzoulei&show_icons=true&locale=en" alt="itzzoulei" />
 </p>
-</div>
