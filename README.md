@@ -1,5 +1,5 @@
 ![MasterHead](https://github.com/user-attachments/assets/da9fa04e-82bb-4db0-806f-7be3cbf92c84)
-
+<div style="background-color:#4d8fd4; width:100%">
 <h1 align="center">Hi, I'm Oli</h1>
 <h3 align="center">A development apprentice from Switzerland</h3>
 <h3 align="center">Check out my <a href="oulei.ch" target="_blank">Portfolio!</a></h3>
@@ -82,6 +82,8 @@
 ---
 
 ## 📊 GitHub Stats
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzoulei&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzoulei&show_icons=true&locale=en" alt="Top Languages" />
+  <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzoulei&show_icons=true&locale=en" alt="itzzoulei" /></p>
 </p>
+</div>
