@@ -3,6 +3,8 @@
 <h3 align="center">A development apprentice from Switzerland</h3>
 <h3 align="center">Check out my <a href="oulei.ch" target="_blank">Portfolio!</a></h3>
 
+---
+
 - 🐦‍🔥 My current project: **Restoring DuckyQlick**
 
 - 👉 My other projects: **DuckyType, DuckyQlick, My own Portfolio, Bazario**
@@ -12,9 +14,7 @@
 <p align="left">
 </p>
 
-
 ---
-
 
 ## Frontend
 
@@ -30,9 +30,6 @@
   <a href="https://getbootstrap.com"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" width="40"/></a>
 </p>
 
----
-
-
 ## Backend
 
 <p align="left">
@@ -44,9 +41,6 @@
   <a href="https://www.python.org"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/></a>
 </p>
 
----
-
-
 ## Databases
 
 <p align="left">
@@ -56,9 +50,6 @@
   <a href="https://www.mongodb.com/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" width="40"/></a>
   <a href="https://www.sqlite.org/"><img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" width="40"/></a>
 </p>
-
----
-
 
 ## DevOps & Cloud
 
@@ -72,9 +63,6 @@
   <a href="https://www.linux.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40"/></a>
 </p>
 
----
-
-
 ## Tools & Design
 
 <p align="left">
@@ -86,10 +74,11 @@
 
 ---
 
-
 ## GitHub Stats
 
-<p align="center" display="flex">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzoulei&show_icons=true&locale=en" alt="Top Languages" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=itzzoulei&show_icons=true&locale=en" alt="itzzoulei" />
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=itzzoulei&show_icons=true&locale=en" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=itzzoulei&show_icons=true&locale=en" height="180"/>
 </p>
