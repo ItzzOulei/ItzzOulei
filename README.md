@@ -5,7 +5,7 @@
 
 ---
 
-- 🐦‍🔥 My current project: **Restoring DuckyQlick**
+- 🐦‍🔥 My current project: **I dunno**
 
 - 👉 My other projects: **DuckyType, DuckyQlick, My own Portfolio, Bazario**
 
