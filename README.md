@@ -5,7 +5,7 @@
 
 ---
 
-- 🐦‍🔥 My current project: **I dunno**
+- 🐦‍🔥 My current project: **Experimenting with Swift and working actively on a Roblox game**
 
 - 👉 My other projects: **DuckyType, DuckyQlick, My own Portfolio, Bazario**
 
